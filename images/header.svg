@@ -14,7 +14,7 @@
         
         
       <g transform="translate(427, 100) scale(1, 1) translate(-427, -100)">
-        <path d="" fill="#FA991C" opacity="0.4" >
+        <path d="" fill="#FFA883" opacity="0.4" >
           <animate
               attributeName="d"
               dur="20s"
@@ -26,7 +26,7 @@
               values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z">
           </animate>
         </path>
-        <path d="" fill="#FA991C" opacity="0.4" >
+        <path d="" fill="#FFA883" opacity="0.4" >
           <animate
             attributeName="d"
             dur="20s"
@@ -39,7 +39,7 @@
           </animate>
         </path>
       </g>
-         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#032539;" stroke="#none" stroke-width="1" >joshuaha0702</text>
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#363636;" stroke="#none" stroke-width="1" >joshuaha</text>
         
       </svg>
     

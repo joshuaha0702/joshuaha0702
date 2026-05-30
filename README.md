@@ -4,7 +4,7 @@
   <img src="./images/typing.svg" alt="Typing SVG" />
 </div>
 
-### 👋 Hi there, I'm joshuaha0702
+### 👋 Hi there, I'm joshuaha
 
 I am a developer who grows by constantly learning and building.  
 I focus on bridging the gap between hardware and software, with a strong interest in autonomous systems and hardware-level optimization.
