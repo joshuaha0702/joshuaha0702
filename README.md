@@ -43,7 +43,14 @@
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaha0702&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaha0702&layout=compact&theme=tokyonight" width="38%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuaha0702&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joshuaha0702&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joshuaha0702&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuaha0702&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joshuaha0702&theme=tokyonight&utcOffset=9" />
 </div>
