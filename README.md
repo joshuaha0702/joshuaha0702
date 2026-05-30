@@ -1,18 +1,18 @@
-# Hardware & Software Integrated Developer
-
 <div align="center">
   <img src="./images/header.svg" alt="header" />
   <br/>
   <img src="./images/typing.svg" alt="Typing SVG" />
 </div>
 
-## 🏎️ About Me
-안녕하세요! 하드웨어 최적화부터 자율주행 소프트웨어까지, 시스템의 전 계층을 아우르는 개발을 지향합니다.
+### 👋 Hi there, I'm joshuaha0702
 
-- 🏎️ **Autonomous Racing**: ROS2 기반 F1TENTH 자율주행 알고리즘 및 시뮬레이션 연구 중
-- ⚡ **Hardware Optimization**: FPGA(Verilog) 및 C를 활용한 연산 가속화 및 아키텍처 설계
-- 🛠️ **Embedded Systems**: Arduino부터 Linux 시스템 제어까지 폭넓은 임베디드 구현 능력 보유
-- 🔍 **Engineering Mindset**: 클린 코드와 체계적인 문서화를 통해 지속 가능한 소프트웨어를 만듭니다.
+I am a developer who grows by constantly learning and building.  
+I focus on bridging the gap between hardware and software, with a strong interest in autonomous systems and hardware-level optimization.
+
+- 🏎️ **Autonomous Racing**: Researching ROS2-based F1TENTH autonomous racing algorithms and simulation environments.
+- ⚡ **Hardware Optimization**: Experience in accelerating computations and designing architectures using FPGA (Verilog) and C.
+- 🛠️ **Embedded Systems**: Broad implementation skills ranging from Arduino to Linux system control.
+- 🔍 **Engineering Mindset**: Committed to building sustainable software through clean code and systematic documentation.
 
 ## 🛠 Tech Stack
 
