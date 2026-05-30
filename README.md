@@ -1,9 +1,9 @@
 # Hardware & Software Integrated Developer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=joshuaha0702&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=joshuaha0702&fontSize=70" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hardware+%26+Software+Integrated+Developer;ROS2+%26+Autonomous+Racing+Enthusiast;Embedded+Systems+%26+FPGA+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hardware+%26+Software+Integrated+Developer;ROS2+%26+Autonomous+Racing+Enthusiast;Embedded+Systems+%26+FPGA+Engineer" alt="Typing SVG" />
 </div>
 
 ## 🏎️ About Me
@@ -38,13 +38,12 @@
 | Project | Key Tech | Description | Status |
 | :--- | :--- | :--- | :--- |
 | **[f1tenth_ws_foxy](https://github.com/joshuaha0702/f1tenth_ws_foxy)** | `ROS2`, `C++` | 고속 자율주행 알고리즘 및 Gazebo 시뮬레이션 환경 구축 | `In Progress` |
-| **MLP_accelerator** | `C`, `Recursion` | 재귀 로직을 활용한 MLP 연산 가속기 구현 및 하드웨어 최적화 | `Completed` |
-| **door-lock-with-fpga** | `Verilog` | FPGA를 활용한 디지털 보안 도어락 시스템 설계 | `Completed` |
-| **intern_scraper** | `Python`, `AI` | AI 기반 인턴 채용 공고 자동 수집 및 알림 봇 | `Active` |
+| **[MLP_accelerator](https://github.com/joshuaha0702/MLP_accelerator_recursive)** | `C`, `Recursion` | 재귀 로직을 활용한 MLP 연산 가속기 구현 및 하드웨어 최적화 | `Completed` |
+| **[intern_scraper](https://github.com/joshuaha0702/intern_scraper_with_AI)** | `Python`, `AI` | AI 기반 인턴 채용 공고 자동 수집 및 알림 봇 | `Active` |
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaha0702&show_icons=true&theme=tokyonight" alt="joshuaha0702's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaha0702&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaha0702&show_icons=true&theme=tokyonight&align=center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaha0702&layout=compact&theme=tokyonight&align=center" width="38%" />
 </div>
