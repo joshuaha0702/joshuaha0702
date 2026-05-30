@@ -1,7 +1,7 @@
 # Hardware & Software Integrated Developer
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=joshuaha0702&fontSize=70&desc=Engineering%20Life&descSize=20&descAlign=60" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=joshuaha0702&fontSize=70" alt="header" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hardware+%26+Software+Integrated+Developer;ROS2+%26+Autonomous+Racing+Enthusiast;Embedded+Systems+%26+FPGA+Engineer" alt="Typing SVG" />
 </div>
@@ -44,6 +44,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuaha0702&show_icons=true&theme=tokyonight&align=center" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaha0702&layout=compact&theme=tokyonight&align=center" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuaha0702&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaha0702&layout=compact&theme=tokyonight" width="38%" />
 </div>
