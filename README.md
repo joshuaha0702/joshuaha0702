@@ -22,13 +22,13 @@ I focus on bridging the gap between hardware and software, with a strong interes
 ![Verilog](https://img.shields.io/badge/Verilog-%23F7DF1E.svg?style=for-the-badge&logo=verilog&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=matlab&logoColor=white)
 
 ### Simulation
 ![ROS2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23FF7518.svg?style=for-the-badge&logo=gazebo&logoColor=white)
 ![RViz2](https://img.shields.io/badge/RViz2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-%23ED1967.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![PSIM](https://img.shields.io/badge/PSIM-005496?style=for-the-badge)
 
 ### Hardware & Embedded
@@ -41,7 +41,7 @@ I focus on bridging the gap between hardware and software, with a strong interes
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FF6600?style=for-the-badge&logo=xilinx&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=xilinx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Featured Projects
